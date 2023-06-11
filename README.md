@@ -2,6 +2,7 @@
 top paper list
 
 # 2023
+## Time-Aware Context-Gated Graph Attention Network for Clinical Risk Prediction
 要点总结：
 
 电子病历的临床风险预测对于医生的判断和早期诊断很重要。
