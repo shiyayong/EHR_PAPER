@@ -5,9 +5,7 @@ top paper list
 ## Time-Aware Context-Gated Graph Attention Network for Clinical Risk Prediction
 要点总结：
 
-电子病历的临床风险预测对于医生的判断和早期诊断很重要。
 
-预测性能高度依赖于电子病历（EHR）中的多维时间序列数据的有效处理。
 
 已有的方法通常过于关注时间特征或临床事件变量的内在关系，或者分两个阶段提取这些信息，导致患者的特征信息不足，从而降低预测性能。
 
@@ -21,7 +19,7 @@ T-ConextGGAN包含一个具有时间感知元路径和自我注意机制的图�
 
 大量的实验结果表明，T-ConextGGAN能够有效地提取信息特征，并在多个预测指标上优于现有的先进模型。
 
-T-ConextGGAN的代码已经公开，并可以在GitHub上获取。
+T-ConextGGAN的代码https://github.com/OwlCitizen/TContext-GGAN.
 
 # 2022
 ELDA:Learning Explicit Dual-Interactions for Healthcare Analytics # Using TensorFlow backend.
