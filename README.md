@@ -4,7 +4,7 @@ top paper list
 # 2023
 ## Time-Aware Context-Gated Graph Attention Network for Clinical Risk Prediction
 要点总结：
-
+1
 
 
 已有的方法通常过于关注时间特征或临床事件变量的内在关系，或者分两个阶段提取这些信息，导致患者的特征信息不足，从而降低预测性能。
